@@ -1,3 +1,3 @@
-Lab1-for-Koba-Masuik-Nagorna
+Lab-for-Koba-Masuik-Nagorna
 ====================
 wtf
