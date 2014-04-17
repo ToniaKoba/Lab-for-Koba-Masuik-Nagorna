@@ -12,3 +12,4 @@ Labolatorna
 діаграма.
 ===========
 ![alt text](https://github.com/15OlegMasuik/Lab-for-Koba-Masuik-Nagorna/blob/master/blok_skhema.png "Diagram")
+![alt text][logo]
