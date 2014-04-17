@@ -1,2 +1,2 @@
-public class orange extends fruits {
+public class Orange extends Fruits {
 }

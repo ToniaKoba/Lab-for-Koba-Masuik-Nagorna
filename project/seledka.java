@@ -1,2 +1,2 @@
-public class seledka extends Fish product {
+public class Seledka extends Fish product {
 }

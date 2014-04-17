@@ -1,2 +1,2 @@
-public class yogurt extends Milk Product, Milk Product {
+public class Yogurt extends Milk Product, Milk Product {
 }

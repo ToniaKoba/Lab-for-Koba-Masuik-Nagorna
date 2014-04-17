@@ -1,2 +1,2 @@
-public class fruits extends Product {
+public class Fruits extends Product {
 }

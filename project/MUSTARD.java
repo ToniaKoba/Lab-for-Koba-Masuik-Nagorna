@@ -1,2 +1,2 @@
-public class MUSTARD extends sauces {
+public class MUSTARD extends Sauces {
 }

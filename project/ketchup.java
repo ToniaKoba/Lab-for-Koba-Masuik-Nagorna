@@ -1,2 +1,2 @@
-public class ketchup extends sauces {
+public class Ketchup extends Sauces {
 }

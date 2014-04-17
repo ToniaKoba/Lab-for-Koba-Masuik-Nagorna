@@ -1,2 +1,2 @@
-public class water extends drinks {
+public class Water extends Drinks {
 }

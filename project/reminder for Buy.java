@@ -1,6 +1,6 @@
-public class reminder for Buy {
+public class Reminder for Buy {
 
-  public void reminderbuy() {
+  public void Reminderbuy() {
   }
 
 }

@@ -1,2 +1,2 @@
-public class cabbage extends vegetables {
+public class Cabbage extends Vegetables {
 }

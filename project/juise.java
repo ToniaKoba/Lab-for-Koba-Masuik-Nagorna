@@ -1,2 +1,2 @@
-public class juise extends drinks, drinks, drinks, drinks {
+public class Juise extends Drinks, Drinks, Drinks, Drinks {
 }

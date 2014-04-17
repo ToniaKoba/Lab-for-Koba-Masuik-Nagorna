@@ -1,2 +1,2 @@
-public class tuna extends Fish product {
+public class Tuna extends Fish product {
 }

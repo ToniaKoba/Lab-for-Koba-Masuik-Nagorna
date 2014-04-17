@@ -2,10 +2,10 @@ import java.util.Vector;
 
 public class History {
 
-    public Vector  myDieta;
-    public Vector  myDieta;
-    public Vector  myRation_for_Day;
-    public Vector  myRation_for_Day;
+    public Vector  MyDieta;
+    public Vector  MyDieta;
+    public Vector  MyRation_for_Day;
+    public Vector  MyRation_for_Day;
 
   public void deleteHis() {
   }

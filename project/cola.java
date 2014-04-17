@@ -1,2 +1,2 @@
-public class cola extends drinks {
+public class Cola extends Drinks {
 }

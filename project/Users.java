@@ -1,11 +1,11 @@
 import java.util.Vector;
 
-public class users {
+public class Users {
 
-    public Vector  myDietolog;
-    public Vector  myDietolog;
-    public Vector  myDietolog;
-    public Vector  myDieta;
-    public Vector  myDieta;
+    public Vector  MyDietolog;
+    public Vector  MyDietolog;
+    public Vector  MyDietolog;
+    public Vector  MyDieta;
+    public Vector  MyDieta;
 
 }

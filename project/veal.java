@@ -1,2 +1,2 @@
-public class veal extends Meat_Product {
+public class Veal extends Meat_Product {
 }

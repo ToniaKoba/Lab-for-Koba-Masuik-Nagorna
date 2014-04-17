@@ -1,2 +1,2 @@
-public class milk extends Milk Product {
+public class Milk extends Milk Product {
 }

@@ -1,2 +1,2 @@
-public class mayonnaise extends Milk Product, sauces {
+public class Mayonnaise extends Milk Product, Sauces {
 }

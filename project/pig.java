@@ -1,2 +1,2 @@
-public class pig extends Meat_Product {
+public class Pig extends Meat_Product {
 }

@@ -1,2 +1,2 @@
-public class kefir extends Milk Product {
+public class Kefir extends Milk Product {
 }
