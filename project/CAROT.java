@@ -1,2 +1,2 @@
-public class CAROT extends vegetables {
+public class CAROT extends Vegetables {
 }
