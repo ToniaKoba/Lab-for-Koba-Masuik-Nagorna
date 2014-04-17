@@ -9,7 +9,7 @@ Labolatorna
 =========================================
 ![alt text](https://raw.githubusercontent.com/15OlegMasuik/Lab-for-Koba-Masuik-Nagorna/master/blok_skhema.png "Diagram")
 ===========================
-Виконали Студенти нрупи КМ-23
+Виконали Студенти групи КМ-23
 * Масюк Олег
 * Коба Тоня
 * Вікторія Нагорна.
