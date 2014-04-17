@@ -1,11 +1,11 @@
 import java.util.Vector;
 
-public class Dietolog extends reminder, reminder for Buy {
+public class Dietolog extends Reminder, Reminder for Buy {
 
-    public Vector  myProduct;
-    public Vector  myUsers;
-    public Vector  myusers;
-    public Vector  myusers;
-    public Vector  myusers;
+    public Vector  MyProduct;
+    public Vector  MyUsers;
+    public Vector  Myusers;
+    public Vector  Myusers;
+    public Vector  Myusers;
 
 }
